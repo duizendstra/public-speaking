@@ -1,0 +1,8 @@
+{
+  // These settings ensure a consistent experience in the VS Code editor.
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

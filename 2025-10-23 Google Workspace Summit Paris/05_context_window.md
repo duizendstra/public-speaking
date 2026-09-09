@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So we have these two powerful concepts: a 'shared reality' in our Git
 repository, and a 'recipe' for the AI in our System Prompts.

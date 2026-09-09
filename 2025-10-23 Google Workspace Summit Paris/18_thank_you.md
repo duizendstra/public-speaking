@@ -6,7 +6,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "The speed we achieved that weekend wasn't the real story. The real story is
 that this new way of working frees us from the tedious 'how' and allows us, as

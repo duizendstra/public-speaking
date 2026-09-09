@@ -2,7 +2,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So, how did we build this safety net in a Workspace project? We used the tools
 that professional developers use every day: Git and a test suite.

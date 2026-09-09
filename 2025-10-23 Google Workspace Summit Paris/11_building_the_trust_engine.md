@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "That result from the weekend is impressive, but it raises a critical question
 that every developer in this room should be asking: How do we _trust_ a partner

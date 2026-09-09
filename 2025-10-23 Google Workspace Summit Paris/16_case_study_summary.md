@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So let's bring it all together by revisiting the time-writing add-on case
 study. Rewriting an entire application from Apps Script to Go in a single

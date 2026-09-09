@@ -2,7 +2,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So let's bring it all together with the story of the time-writing add-on. My
 goal was to migrate this tool from a simple Apps Script prototype into a

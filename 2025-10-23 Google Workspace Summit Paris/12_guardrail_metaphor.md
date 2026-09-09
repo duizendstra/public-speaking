@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "And it's important to think of these tests and automated checks as
 **guardrails**, not as a straitjacket.

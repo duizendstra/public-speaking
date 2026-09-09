@@ -2,7 +2,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "And here is the result of that partnership. This is what happens when a
 specialist on our team understands the mission and has access to our shared

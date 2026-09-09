@@ -1,6 +1,6 @@
-### **Presentation Summary: The AI Scrum Master**
+# Presentation Summary: The AI Scrum Master
 
-**My Journey from Prompt Fatigue to a Smarter Workflow**
+## My Journey from Prompt Fatigue to a Smarter Workflow
 
 This presentation tackles one of the most significant challenges facing
 developers and creators today: how to move beyond the frustrating and
@@ -19,12 +19,12 @@ shifts in how we can work with AI:
 The session promises to deliver a new **model** for thinking about AI
 collaboration and a practical **framework** for putting it into practice.
 
-#### **The Core Framework: A Three-Pillar Solution**
+## The Core Framework: A Three-Pillar Solution
 
 The presentation builds its case on three foundational pillars, each designed to
 solve a critical aspect of the collaboration problem:
 
-**1. Pillar 1: Context Engineering (The Shared Reality)**
+### Pillar 1: Context Engineering (The Shared Reality)
 
 - **The Problem:** An AI partner is brilliant but fundamentally stateless. Each
   session starts from scratch, and switching to a different AI model means
@@ -38,20 +38,22 @@ solve a critical aspect of the collaboration problem:
   mission. The repository becomes a **Lighthouse**, guiding the reasoning of
   _any_ AI we choose to partner with.
 
-1. **Pillar 2: Shared Mental Models (The Map)**
-   - **The Problem:** A vast memory is useless without a map; it's a data swamp.
-   - **The Solution:** We give our project a **Blueprint**—a shared mental model
-     like "Factory, Library, Product"—that turns a simple folder structure into
-     a coherent map of our shared mission, allowing the AI to navigate the
-     context with purpose.
+### Pillar 2: Shared Mental Models (The Map)
 
-2. **Pillar 3: The Trust Engine (The Safety Net)**
-   - **The Problem:** How do we trust the output of a non-deterministic partner?
-   - **The Solution:** We create a safety net using core developer practices.
-     Test-Driven Development and version control act as **Guardrails**, allowing
-     us to delegate work with confidence by focusing on verifiable results.
+- **The Problem:** A vast memory is useless without a map; it's a data swamp.
+- **The Solution:** We give our project a **Blueprint**—a shared mental model
+  like "Factory, Library, Product"—that turns a simple folder structure into a
+  coherent map of our shared mission, allowing the AI to navigate the context
+  with purpose.
 
-#### **Putting It All Together: The Framework in Action**
+### Pillar 3: The Trust Engine (The Safety Net)
+
+- **The Problem:** How do we trust the output of a non-deterministic partner?
+- **The Solution:** We create a safety net using core developer practices.
+  Test-Driven Development and version control act as **Guardrails**, allowing us
+  to delegate work with confidence by focusing on verifiable results.
+
+## Putting It All Together: The Framework in Action
 
 The presentation then demonstrates how these three pillars combine into a
 simple, powerful, and repeatable daily workflow called **The Orchestrator's

@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "Abraham Lincoln's advice about sharpening the axe has always been a core
 principle for developers. We spend years mastering our tools. Then, generative

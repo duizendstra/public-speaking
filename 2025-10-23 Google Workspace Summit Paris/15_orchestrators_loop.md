@@ -2,7 +2,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So we've seen the framework. But what is the actual, day-to-day process that
 makes it work? It's this: **The Orchestrator's Loop.** This is our new workflow

@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So, we've established that we need to give our AI partner context by building a
 single source of truth. But as I hinted at a moment ago, just dumping a thousand

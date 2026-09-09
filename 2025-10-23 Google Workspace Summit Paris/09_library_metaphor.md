@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "This model gives the AI the blueprint to our project. It provides a clear,
 shared map that both of us can follow.

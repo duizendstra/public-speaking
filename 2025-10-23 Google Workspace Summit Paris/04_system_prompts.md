@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So, we've established our single source of truth—the shared reality for our
 collaboration. But context alone isn't enough. We also need to define the

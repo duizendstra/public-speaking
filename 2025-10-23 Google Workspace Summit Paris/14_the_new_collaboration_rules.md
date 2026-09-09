@@ -6,7 +6,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "So, when we bring all these pieces together, we get more than a finished
 product. We get a new, sustainable workflow governed by a new set of rules for

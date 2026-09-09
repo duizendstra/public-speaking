@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "That epiphany revealed the real problem. It wasn't a lack of intelligence, but
 a lack of a **shared, persistent reality**. The AI has a functional memory

@@ -4,7 +4,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "I mentioned earlier that one of the profound shifts in this new workflow is
 collaborating with a **team of AI personas**, not a monolith. This is what that

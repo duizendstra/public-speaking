@@ -2,7 +2,7 @@
 
 ---
 
-### Speaker Notes
+## Speaker Notes
 
 "And here is the result of this model in action. My goal was to migrate a
 time-writing tool from a simple Apps Script prototype into a production-grade

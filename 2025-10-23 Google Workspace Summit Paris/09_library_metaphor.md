@@ -1,6 +1,6 @@
 # Factory, Library, Product
 
-## Our Recipe for Collaboration
+## Our Shared Map of the Project
 
 ---
 

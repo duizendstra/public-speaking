@@ -73,12 +73,3 @@ This session concludes by showing how this framework was used to migrate an
 entire application from Apps Script to Go in a single weekend—a testament to the
 speed and quality that can be achieved when we move from prompting to a true,
 structured collaboration.
-
----
-
-This updated description is now more precise. It preserves the power of using
-tests as a primary example while explicitly including the "human in the loop"
-verification process you described. It presents a more complete and realistic
-picture of the framework in action.
-
-Does this revised language accurately capture your intent?

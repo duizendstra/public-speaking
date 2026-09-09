@@ -1,16 +1,20 @@
 # "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
 
-> - Abraham Lincoln
+> - Attributed to Abraham Lincoln, and found nowhere in his papers.
 
 ---
 
 ## Speaker Notes
 
-"Abraham Lincoln's advice about sharpening the axe has always been a core
-principle for developers. We spend years mastering our tools. Then, generative
-AI arrived. It felt like a magic chainsaw. But I quickly fell into a cycle I
-call 'prompt fatigue.' I was spending hours trying to describe the perfect cut,
-only for the AI to misunderstand.
+"The advice about sharpening the axe has always been a core principle for
+developers. Everyone puts it in Abraham Lincoln's mouth. It is in none of his
+papers, which is a useful thing to notice at the start of a talk that ends on
+verifying what you are handed.
+
+We spend years mastering our tools. Then, generative AI arrived. It felt like a
+magic chainsaw. But I quickly fell into a cycle I call 'prompt fatigue.' I was
+spending hours trying to describe the perfect cut, only for the AI to
+misunderstand.
 
 The breakthrough came when I tried a radical experiment. Instead of trying to
 give the AI the perfect instructions, I decided to reverse our roles. I told it:

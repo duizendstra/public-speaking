@@ -18,8 +18,8 @@ It was possible because it understood our **Mental Model**: the 'Factory,
 Library, Product' structure for the new production-grade add-on.
 
 And we could move that fast because we had **Guardrails**: a test suite that
-verified each piece of migrated logic, all managed through a professional
-workflow with tools like `clasp`.
+verified each piece of migrated logic, run with `go test` on every change and
+held in version control.
 
 This isn't a magic trick. It's the result of a methodical, structured approach
 to collaboration. It is the framework for an effective partnership."

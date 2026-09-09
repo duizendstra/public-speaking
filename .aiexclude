@@ -1,1 +1,9 @@
+# Files the AI assistant must not read. Same syntax as .gitignore.
+#
+# This overlaps .gitignore today and that is not duplication: git is told not to
+# COMMIT this file, the assistant is told not to READ it. Either rule can
+# change without the other, so keep both, and keep this comment saying why.
+#
+# Scratch file written by the contextvibes CLI. It holds session working notes,
+# not project content, and reading it would pollute the assistant's context.
 contextvibes.md

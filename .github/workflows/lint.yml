@@ -1,0 +1,33 @@
+# This repository already installs markdownlint-cli and prettier in
+# .idx/dev.nix and configures both in .markdownlint.jsonc and .prettierrc.json.
+# Nothing ran them, so 34 lint errors and 21 unformatted files accumulated
+# unnoticed. This workflow closes that gap: the tools the repo already declares,
+# run on every push.
+#
+# Versions are pinned deliberately. A formatter that drifts turns an unrelated
+# pull request into a diff of the whole tree. When bumping either one, run it
+# locally first and commit the reformatting on its own.
+name: lint
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # Structure: heading levels, list style, duplicate headings.
+      - name: markdownlint
+        run: npx --yes markdownlint-cli@0.49.1 "**/*.md"
+
+      # Style: prose wrapping at 80 columns. --check fails rather than rewrites,
+      # so CI never pushes a change of its own.
+      - name: prettier
+        run: npx --yes prettier@3.9.6 --check .

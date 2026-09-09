@@ -11,5 +11,5 @@
 
   // MD033: Inline HTML.
   // Allow inline HTML (like the Firebase Studio button in the README).
-  "MD033": false
+  "MD033": false,
 }

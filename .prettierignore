@@ -2,3 +2,8 @@
 
 # Ignore the Nix environment files
 .idx/
+
+# Editor configuration, owned by the editor and not by this repo's house style.
+# Prettier would reformat all 200-odd lines of it, turning any future diff of
+# this file into noise.
+.vscode/

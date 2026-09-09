@@ -1,17 +1,26 @@
 # .idx/contextvibes.nix
 # Downloads a pre-compiled binary from a GitHub Release.
+#
+# v0.6.0 is the newest stable release. GitHub marks v0.7.0-alpha.7 as "Latest",
+# but that is a maintainer flag rather than a statement about stability, so it
+# is deliberately not used here. The alpha line also ships per-platform tarballs
+# instead of a bare binary, which would need dontUnpack removed.
+#
+# The asset is a statically linked linux/amd64 ELF, which is what the Firebase
+# Studio workspace runs. On any other platform this derivation will build and
+# then fail at exec.
 { pkgs }:
 
 pkgs.stdenv.mkDerivation {
   pname = "contextvibes";
-  version = "0.2.1";
+  version = "0.6.0";
 
   # Fetch the pre-built binary from the GitHub Release.
   src = pkgs.fetchurl {
     # URL for the release asset.
-    url = "https://github.com/contextvibes/cli/releases/download/v0.2.1/contextvibes";
+    url = "https://github.com/contextvibes/cli/releases/download/v0.6.0/contextvibes";
     # SHA256 hash of the downloaded file.
-    sha256 = "sha256:524045cb90a3dc799c2c8edc3c157b9fd3ad6adfac2f31060f3f355a1e025ebd";
+    sha256 = "sha256:bdbf55bf902aa567851fcbbc07704b416dee85065a276a47e7df19433c5643ea";
   };
 
   dontUnpack = true;

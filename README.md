@@ -1,9 +1,12 @@
 # Public Speaking: An AI-Assisted Presentation Workspace
 
-This repository is a structured environment for crafting, refining, and
-delivering high-impact technical presentations. It is a collaborative workspace
-designed for a partnership between a human orchestrator (**Orion**) and an
-expert AI assistant (**THEA**).
+The talks of **Jasper Duizendstra**, independent architect and engineer, Google
+Developer Expert for Google Workspace, together with the workspace they are
+written in. Each talk keeps its slides, its speaker notes and its resources
+here, so anyone who was in the room can read back what was said.
+
+The workspace itself is a partnership between a human orchestrator (**Orion**,
+the role Jasper takes) and an expert AI assistant (**THEA**).
 
 ## Core Methodology
 
@@ -17,9 +20,10 @@ AI-assisted workflow.
   ([`.idx/airules.md`](./.idx/airules.md)) that guide the AI assistant, THEA.
   THEA acts as an active co-pilot, channeling different expert personas to
   assist in the creative process from ideation to delivery.
-- **Script-First Approach:** The `script.md` within each presentation directory
-  is the living document and the ultimate source of truth for its content. The
-  `outline.md` serves as a high-level structural guide.
+- **Slide-First Approach:** Each presentation directory holds one numbered
+  markdown file per slide, in delivery order. A slide file carries both what was
+  on screen and the `## Speaker Notes` spoken over it, so the two cannot drift
+  apart into separate documents.
 
 ## Getting Started
 
@@ -36,10 +40,12 @@ where all tools and dependencies are automatically set up.
 
 ## Presentations
 
-This is a collection of all public speaking activities developed in this
-workspace.
+Every talk written in this workspace, newest first. Each entry links to its
+slides, speaker notes and resources.
 
-- [2025-10-23 Google Workspace Summit Paris](./2025-10-23%20Google%20Workspace%20Summit%20Paris/)
+| Date       | Talk                                                                       | Event                          | Status    |
+| ---------- | -------------------------------------------------------------------------- | ------------------------------ | --------- |
+| 2025-10-23 | [The AI Scrum Master](./2025-10-23%20Google%20Workspace%20Summit%20Paris/) | Google Workspace Summit, Paris | Delivered |
 
 ## The Orion-THEA Partnership
 

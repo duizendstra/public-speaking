@@ -34,14 +34,6 @@ where all tools and dependencies are automatically set up.
     src="https://cdn.firebasestudio.dev/btn/open_bright_32.svg">
 </a>
 
-## Creating a New Presentation
-
-To create a new presentation, use the Context Vibes Firebase Studio Markdown
-template. This will generate a new repository with the correct structure and
-tooling, ready for you to begin crafting your content.
-
-**[Click here to use the presentation template.](https://github.com/contextvibes/firebase-studio-markdown/generate)**
-
 ## Presentations
 
 This is a collection of all public speaking activities developed in this
